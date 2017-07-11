@@ -1,1 +1,2 @@
-I don't want to disclose my grades in public
+I don't want to disclose my grades in public from master branch but i would like to share my grade from development branch.
+My lowest gpa is 2.41 (3rd semester) and highest gpa is 3.5 (5th semester)
