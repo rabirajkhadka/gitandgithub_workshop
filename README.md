@@ -1,5 +1,7 @@
-# Git and GitHub Workshop: Session One
-**Workshop on using Git and GitHub** for *4th Semester and 6th Semester* of Computer Engineering Department of Khwopa Engineering College. This repository contains resources and examples used in workshop.
+# Git and GitHub Workshop:  Web Page Hosting
+**Workshop on using Git and GitHub** for *4th Semester and 6th Semester* of Computer Engineering Department of Khwopa Engineering College. This branch of the repository is contains files that has been used for hosting.
+Thanks All people for your valuable presence, patience and support, we will be happy to conduct second session to share knowledge about using git and collaborating with other contributors.
+
 Workshop is facilitated by 
 * Rabi Raj Khadka [facebook](http://facebook.com/neuromancer.rabirajkhadka) 
 * Rasil Awal [facebook](https://www.facebook.com/darsil1040)
