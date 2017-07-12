@@ -1,0 +1,4 @@
+GitStack-Git server for Windows	http://gitstack.com/download/
+GitHub Desktop 			https://desktop.github.com/
+Gitkraken				https://www.gitkraken.com/
+git client				https://git-scm.com/downloads
